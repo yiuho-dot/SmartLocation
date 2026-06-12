@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Location</string>
+    <string name="permission_rationale">需要定位權限才能追蹤您的位置</string>
+    <string name="location_enabled">定位已啟用</string>
+    <string name="location_disabled">定位已停用，請前往設定啟用</string>
+    <string name="start_tracking">開始記錄</string>
+    <string name="stop_tracking">停止記錄</string>
+    <string name="export_gpx">匯出 GPX</string>
+    <string name="track_list">我的軌跡</string>
+    <string name="map">地圖</string>
+    <string name="settings">設定</string>
+</resources>
